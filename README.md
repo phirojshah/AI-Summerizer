@@ -1,4 +1,4 @@
-# AI Summerizer
+# AI Summerizer <a href='https://aai-summerizer.vercel.app/'>Live</a>
 AI Summerizer is a web application built with ReactJS and Vite that allows users to automatically summarize articles by simply pasting the link of the article. It utilizes artificial intelligence techniques to extract key information and generate a concise summary.
 
 <h2>Features</h2>
